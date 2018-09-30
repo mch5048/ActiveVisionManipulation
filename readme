@@ -1,0 +1,13 @@
+This is the repository for the paper "Reinforcement Learning of Active Vision for Manipulating Objects under Occlusions"
+
+Instructions for using:
+
+1. train the RCNN model in HER/rcnn using large_dataset.py to generate a dataset and train_mujoco.py to train the RCNN
+2. use HER/examples/run.py to train policies
+3. use HER/examples/visualize.py to test / evaluate policies
+
+Videos:
+
+In vids directory
+0.webm through 6.webm show successful episodes
+7.webm and 8.webm are failure cases
