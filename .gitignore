@@ -1,0 +1,8 @@
+HER/forward_model/*
+baseline_results_new/
+*.pyc
+*~
+HER/shape_prediction
+*slurm*out
+*.png
+*.jpg
